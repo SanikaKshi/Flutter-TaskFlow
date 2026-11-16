@@ -29,3 +29,7 @@ white, black and blue user interface.
 
 This basic version stores tasks in application memory.
 Tasks reset when the application is restarted.
+
+##Screenshots
+[Screenshots for Applications.docx](https://github.com/user-attachments/files/34924996/Screenshots.for.Applications.docx)
+
