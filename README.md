@@ -6,17 +6,27 @@ white, black and blue user interface.
 
 ## Features
 
+User registration and login using email and password
+- Secure logout
 - View all tasks
-- Add new tasks
-- Mark tasks as completed
+- Add new tasks with a title and description
+- Edit existing tasks
+- Mark tasks as completed or pending
 - Delete tasks
-- View total, completed and pending task counts
+- Automatically update total, completed and pending task counts
+- Store and retrieve tasks from a cloud database
+- Real-time task data synchronisation
+- Secure user-specific task access
 
 ## Technology
 
-- Flutter
-- Dart
-- Material Design 3
+- **Frontend:** Flutter and Dart
+- **UI:** Material Design 3
+- **Backend:** Supabase
+- **Database:** Supabase PostgreSQL
+- **Authentication:** Supabase Authentication
+- **Real-time Updates:** Supabase Realtime
+- **Version Control:** Git / GitHub
 
 ## How to Run
 
